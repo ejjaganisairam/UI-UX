@@ -1,0 +1,76 @@
+body {
+  background-color: #FFF;
+}
+.container
+{
+background-color: white ;
+position : absolute ;
+width : 1350px;
+height : 100px;
+}
+.left_corner_icon
+{
+background-color: white ;
+margin : 0px 0px 0px 0px;
+border : 1px solid ;
+position : absolute ;
+width : 205px;
+height : 100px;
+}
+.left_corner_icon table
+{
+margin : auto;
+}
+.header
+{
+background-color: white;
+margin : 0px 0px 0px 212px;
+border : 1px solid ;
+position : absolute;
+width : 902px;
+height : 100px;
+}
+.header table {
+    margin: 0 auto; /* or margin: 0 auto 0 auto */
+  }
+.right_corner_portion
+{
+background-color: white ;
+margin :0px 0px 0px 1120px;
+border : 1px solid ;
+position : absolute;
+width : 220px;
+height : 100px;
+}
+.right_corner_portion table
+{
+margin : auto ;
+}
+.left_navigation_above_half
+{
+background-color: white ;
+margin :105px 0px 0px 0px;
+border : 1px solid ;
+position : absolute;
+width : 200px;
+height : 490px;
+}
+.horizontal_menu
+{
+background-color: white ;
+margin :105px 0px 0px 204px;
+border : 1px solid ;
+position : absolute;
+width : 1125px;
+height : 30px;
+}
+.footer
+{
+background-color: white ;
+margin :605px 0px 0px 0px;
+border : 1px solid ;
+position : absolute;
+width : 1340px;
+height : 25px;
+}
+
