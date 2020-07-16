@@ -5,6 +5,7 @@ body {
 {
 background-color: white ;
 position : absolute ;
+
 width : 1350px;
 height : 100px;
 }
@@ -31,7 +32,7 @@ width : 902px;
 height : 100px;
 }
 .header table {
-    margin: 0 auto; /* or margin: 0 auto 0 auto */
+   margin: 50px auto 0 auto ;
   }
 .right_corner_portion
 {
@@ -54,15 +55,129 @@ border : 1px solid ;
 position : absolute;
 width : 200px;
 height : 490px;
+overflow : hidden;
+overflow-y: scroll;
+overflow-x: scroll;
 }
 .horizontal_menu
 {
 background-color: white ;
-margin :105px 0px 0px 204px;
+margin :110px 0px 0px 206px;
 border : 1px solid ;
 position : absolute;
-width : 1125px;
+width : 1140px;
 height : 30px;
+}
+.header
+{
+background-color: white;
+margin : 0px 0px 0px 212px;
+border : 1px solid ;
+position : absolute;
+width : 900px;
+height : 100px;
+}
+.content_container
+{
+background-color: white;
+margin : 145px 0px 0px 210px;
+border : 1px solid ;
+position : absolute;
+width : 1140px;
+height : 450px;
+overflow : hidden;
+overflow-y: scroll;
+overflow-x: scroll;
+}
+.top_content
+{
+background-color: white;
+margin : 1px 0px 0px 1px;
+border : 1px solid ;
+position : absolute;
+width : 1110px;
+height : 320px;
+}
+.top_left_body
+{
+background-color: white;
+margin : 10px 0px 0px 10px;
+border : 1px solid ;
+position : absolute;
+width : 265px;
+height : 300px;
+}
+.bottom_left_body
+{
+background-color: white;
+margin : 10px 0px 0px 285px;
+border : 1px solid ;
+position : absolute;
+width : 265px;
+height : 300px;
+}
+.top_right_body
+{
+background-color: white;
+margin : 10px 0px 0px 560px;
+border : 1px solid ;
+position : absolute;
+width : 265px;
+height : 300px;
+}
+.bottom_right_body
+{
+background-color: white;
+margin : 10px 0px 0px 835px;
+border : 1px solid ;
+position : absolute;
+width : 265px;
+height : 300px;
+}
+.bottom_content
+{
+background-color: white;
+margin : 322px 0px 0px 1px;
+border : 1px solid ;
+position : absolute;
+width : 1110px;
+height : 320px;
+}
+.top1_left_body
+{
+background-color: white;
+margin : 10px 0px 0px 10px;
+border : 1px solid ;
+position : absolute;
+width : 265px;
+height : 300px;
+}
+.bottom1_left_body
+{
+background-color: white;
+margin : 10px 0px 0px 285px;
+border : 1px solid ;
+position : absolute;
+width : 265px;
+height : 300px;
+}
+.top1_right_body
+{
+background-color: white;
+margin : 10px 0px 0px 560px;
+border : 1px solid ;
+position : absolute;
+width : 265px;
+height : 300px;
+}
+.bottom1_right_body
+{
+background-color: white;
+margin : 10px 0px 0px 835px;
+border : 1px solid ;
+position : absolute;
+width : 265px;
+height : 300px;
 }
 .footer
 {
